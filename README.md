@@ -8,7 +8,7 @@ The project uses Linear Regression for salary prediction and a Streamlit web app
 
 ## 🚀 Live Demo
 
-Coming Soon...
+🚀 [Live Demo](https://kundan-salary-prediction.streamlit.app/)
 
 ---
 
